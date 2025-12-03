@@ -1,0 +1,25 @@
+---
+title: "Sam Li — Lab 13 Portfolio"
+format:
+  html:
+    toc: true
+    toc_float: true
+editor: visual
+execute:
+  warning: false
+  message: false
+---
+About Me
+
+I am Sam Li, a Biology undergraduate at UMass Amherst.
+This page hosts my Lab 13 analysis for Soil MAG Community comparisons across NEON Sites, including data preparation, diversity metrics, ordination analyses, and visualizations.
+
+
+
+Lab 13: Soil MAG Community Analysis
+
+Below are links to the full report, including code, figures, and interpretations:
+	•	View full analysis (QMD Source)
+Lab13.qmd
+	•	View rendered report (HTML Page)
+Lab13.html
