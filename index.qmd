@@ -12,7 +12,7 @@ execute:
 ---
 
 About Me
-2
+3
 
 I am Sam Li, a Biology undergraduate at UMass Amherst. This page hosts my Lab 13 analysis for Soil MAG Community comparisons across NEON Sites, including data preparation, diversity metrics, ordination analyses, and visualizations.
 
