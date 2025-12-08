@@ -20,6 +20,6 @@ I am Sam Li, a Biology undergraduate at UMass Amherst. This page hosts my Lab 13
 
 Below are links to the full report, including code, figures, and interpretations:
 
--   View full analysis (QMD Source): [Lab13](Lab13.qmd)
+-   View full analysis (QMD Source): [Lab13](Lab 13.qmd)
 
--   View rendered report (HTML Page): [Lab13](Lab13.html)
+-   View rendered report (HTML Page): [Lab13](Lab 13.html)
